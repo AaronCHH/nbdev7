@@ -26,3 +26,8 @@ Fill me in please! Don’t forget code examples:
 ```
 
     4
+
+``` python
+test = HelloSayer("Jeremy")
+test.say()
+```

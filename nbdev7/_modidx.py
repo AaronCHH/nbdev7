@@ -5,4 +5,8 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://AaronCHH.github.io',
                 'git_url': 'https://github.com/AaronCHH/nbdev7',
                 'lib_path': 'nbdev7'},
-  'syms': {'nbdev7.core': {'nbdev7.core.foo': ('core.html#foo', 'nbdev7/core.py')}}}
+  'syms': { 'nbdev7.core': { 'nbdev7.core.HelloSayer': ('core.html#hellosayer', 'nbdev7/core.py'),
+                             'nbdev7.core.HelloSayer.__init__': ('core.html#hellosayer.__init__', 'nbdev7/core.py'),
+                             'nbdev7.core.HelloSayer.say': ('core.html#hellosayer.say', 'nbdev7/core.py'),
+                             'nbdev7.core.foo': ('core.html#foo', 'nbdev7/core.py'),
+                             'nbdev7.core.say_hello': ('core.html#say_hello', 'nbdev7/core.py')}}}
