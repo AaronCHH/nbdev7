@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev7"
+  site-url: "https://AaronCHH.github.io/nbdev7"
+  description: "desc"
+  repo-branch: main
+  repo-url: "https://github.com/AaronCHH/nbdev7"
